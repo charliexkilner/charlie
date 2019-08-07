@@ -1,0 +1,104 @@
+.top-title{
+  letter-spacing: 2px;
+  text-align: left;
+}
+
+.menu{
+  text-align: left;
+  font-size: 22px;
+  letter-spacing: 5px;
+}
+
+.projects{
+  font-size: 75px;
+}
+.projects:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.media{
+  font-size: 75px;
+}
+.media:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.blog-page{
+  font-size: 75px;
+}
+.blog-page:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.ideas{
+  font-size: 75px;
+}
+.ideas:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.archive{
+  font-size: 75px;
+}
+.archive:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.prod{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h3::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+a::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+h1::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+u::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+mark::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+header::selection {
+  background-color: #3a45c5;
+  color: white;
+}
+
+mark{
+  background-color: #3a45c5;
+}
+
+.blog-title{
+  text-decoration: underline;
+}
+
+.blog-title:hover {
+  background-color: #3a45c5;
+  color: white;
+}
+
+P{
+  
+}
