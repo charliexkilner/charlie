@@ -1,0 +1,116 @@
+body{
+  background-image: url("noise.jpg");
+}
+
+u{
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+h3{
+  font-size: 15px;
+  font-family: 'Mukta', sans-serif;
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+
+}
+
+.hi{
+  padding-left: 100%;
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+  width: 100%;
+}
+
+.title-note{
+  color: black;
+  font-family: 'Lora', serif;
+}
+
+.blog-post{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h1{
+  font-family: 'Lora', serif;
+  font-size: 25px;
+  align-items: center;
+  text-align: center;
+  color: black;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 40px;
+}
+
+.date{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.title{
+  text-align: center;
+  font-size: 12px;
+}
+
+.todo{
+  text-decoration: line-through;
+}
+
+.todo{
+  text-indent: 50px;
+}
+
+mark{
+  background-color: #8e44ad;
+  color: white;
+}
+
+h3::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+a::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+h1::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+h2::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+u::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+mark::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+header::selection {
+  background-color: #8e44ad;
+  color: white;
+}

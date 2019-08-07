@@ -1,0 +1,83 @@
+u{
+  font-size: 15px;
+  font-family: 'Playfair Display', serif;
+}
+
+p{
+  font-family: 'Mukta', sans-serif;
+}
+
+h3{
+  font-size: 15px;
+  font-family: 'Mukta', sans-serif;
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+
+}
+
+.hi{
+  padding-left: 100%;
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+  width: 100%;
+}
+
+.blog-post{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 25px;
+  align-items: center;
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
+  opacity: 0.4;
+}
+
+mark{
+  background-color: #8e44ad;
+  color: white;
+}
+
+h3::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+a::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+h1::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+h2::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+u::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+mark::selection {
+  background-color: #8e44ad;
+  color: white;
+}
+
+header::selection {
+  background-color: #8e44ad;
+  color: white;
+}

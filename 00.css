@@ -1,0 +1,57 @@
+a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.date{
+  padding-left: 50%;
+}
+
+
+u {
+border-bottom: 1px dotted #3a45c5;;
+text-decoration: none;
+}
+
+.hi{
+  padding-left: 22%;
+}
+
+.top1{
+  font-size: 20px;
+}
+.top1{
+  font-size: 20px;
+}
+.top1{
+  font-size: 20px;
+}
+
+.bottom{
+  text-align: center;
+}
+
+.b{
+  font-size: 20px;
+  text-decoration: underline;
+}
+.b:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.other{
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.home:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+.home{
+  font-size: 16px;
+}

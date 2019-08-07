@@ -1,0 +1,159 @@
+body{
+  background-color: #23272A;
+}
+u{
+  font-size: 15px;
+  font-family: 'Playfair Display', serif;
+}
+
+.top-title{
+  letter-spacing: 2px;
+  text-align: left;
+}
+
+hr{
+  color: pink;
+}
+
+.top-hr{
+  width: 25%;
+  align-items: right;
+  align: right;
+  text-align: right;
+  color: pink;
+
+}
+
+p{
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: #c51f5d;
+}
+
+u {
+border-bottom: 1px dotted #c51f5d;;
+text-decoration: none;
+}
+
+a{
+  font-size: 20px;
+  font-family: 'Mukta', sans-serif;
+  text-decoration: none;
+  color: black;
+  color: #c51f5d;
+}
+
+
+
+.hi{
+  padding-left: 50%;
+}
+
+.hi1{
+  padding-left: 50%;
+}
+
+.blog-post{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  color: #c51f5d;
+}
+
+h1 /* IDEA: Months */{
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  text-align: left;
+  color: #c51f5d;
+}
+
+h5{
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  text-align: left;
+  color: #c51f5d;
+}
+
+.menu{
+  text-align: center;
+  font-size: 22px;
+  letter-spacing: 5px;
+  text-decoration: underline;
+}
+
+.projects{
+  font-size: 25px;
+}
+
+.media{
+  font-size: 25px;
+}
+
+.blog-page{
+  font-size: 25px;
+}
+
+.ideas{
+  font-size: 25px;
+}
+
+
+
+h3{
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: #c51f5d;
+}
+
+.dice{
+  position: fixed;
+  left: 50%;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.prod{
+  position: fixed;
+  left: 85%;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h3::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+a::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+h1::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+u::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+mark::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+header::selection {
+  background-color: #c51f5d;
+  color: white;
+}
+
+mark{
+  background-color: #c51f5d;
+  opacity: 0.6;
+}

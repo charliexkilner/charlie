@@ -1,0 +1,96 @@
+.top-title{
+  letter-spacing: 2px;
+  text-align: left;
+}
+
+.menu{
+  text-align: left;
+  font-size: 22px;
+  letter-spacing: 5px;
+}
+
+.projects{
+  font-size: 25px;
+}
+.projects:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.media{
+  font-size: 25px;
+}
+.media:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.blog-page{
+  font-size: 25px;
+}
+.blog-page:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.ideas{
+  font-size: 25px;
+}
+.ideas:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.archive{
+  font-size: 25px;
+}
+.archive:hover{
+  background-color: #3a45c5;
+  color: white;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #3a45c5;
+}
+
+a{
+  font-size: 15px;
+  font-family: 'Mukta', sans-serif;
+  text-decoration: none;
+  color: black;
+  color: #3a45c5;
+}
+mark{
+  background-color: #3a45c5;
+  color: white;
+}
+
+.archived-file{
+  background-color: white;
+}
+.archived-file:hover{
+  background-color: #dddddd;
+  text-decoration: underline;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th{
+  color: #3a45c5;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
