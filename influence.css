@@ -82,12 +82,12 @@ header::selection {
   color: white;
 }
 
-between1{
+.between1{
   color: green;
 }
-between2{
+.between2{
   color: orange;
 }
-between3{
+.between3{
   color: red;
 }
